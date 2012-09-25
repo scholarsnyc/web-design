@@ -26,3 +26,7 @@ Create a basic HTML file. It doesn't have to be pretty. It just has to work.
 5. Incude a link and include an image.
 
 I'll show you where to submit it on Tuesday. I've been doing this long enough to know that those who submit things the earliest tend to submit the worst work. So, I'm saving you form yourself by hiding the submission link.
+
+## Submission	
+
+<iframe src="https://docs.google.com/a/scholarsnyc.com/spreadsheet/embeddedform?formkey=dHFldTF4UlU3M1FPSzNtV0dJNUdPN1E6MQ" width="760" height="822" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
