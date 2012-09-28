@@ -1,7 +1,6 @@
 ---
 
-title: An Introduction to CSS
-layout: default
+title: A Little Class for Your HTML and CSS
 categories: tutorials
 
 ---
