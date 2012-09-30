@@ -11,4 +11,6 @@ due: October 2, 2012
 
 I should see at least 5 classes and a grand total of 15 properties defined.
 
+You can email me either the link or the files.
+
 [assignment1]: /assignments/basic-page.html
