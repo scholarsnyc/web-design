@@ -7,7 +7,7 @@ due: September 25, 2012
 
 ---
 
-Your mission is pretty simple.
+<iframe src="http://player.vimeo.com/video/50109776" width="550" height="412" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
 Create a basic HTML file. It doesn't have to be pretty. It just has to work.
 
