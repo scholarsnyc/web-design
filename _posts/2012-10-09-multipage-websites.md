@@ -3,6 +3,7 @@
 title: Multiple-Page Websites
 layout: default
 categories: tutorials assignments
+due: October 12, 2012
 
 ---
 
