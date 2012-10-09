@@ -2,7 +2,7 @@
 
 title: Multiple-Page Websites
 layout: default
-categories: tutorials
+categories: tutorials assignments
 
 ---
 
